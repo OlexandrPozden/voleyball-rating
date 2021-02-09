@@ -1,1 +1,0 @@
-# voleyball-rating
